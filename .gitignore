@@ -17,12 +17,20 @@
 /.next/
 /out/
 
+# local scratch files
+/.tmp/
+
 # production
 /build
 
 # misc
 .DS_Store
 *.pem
+
+# editors
+.idea/
+.vscode/
+*.swp
 
 # debug
 npm-debug.log*
